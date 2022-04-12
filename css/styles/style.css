@@ -10,3 +10,10 @@ h1 {
 p {
   text-align: center;
 }
+
+.croissant-photo {
+  max-width: 800px;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
